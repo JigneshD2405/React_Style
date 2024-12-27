@@ -73,3 +73,9 @@ link ==>https://youtu.be/9ooYYRLdg_g?si=YTO-hDk_3iJRvYnR
 
 
 Why directly not update object or Array because it is Reference type and will update memory location directly before it execute so first create copy of that and update that copy
+
+
+
+
+Disadvantages Of Inline Style:-
+Style every Element individualy
