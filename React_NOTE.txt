@@ -86,3 +86,5 @@ CSS is not scoped to perticular component
 
 CSS modules are used for scoping i.e. file name can be header.module.css
 Disadvantages of styled Component:- No separation of React & CSS
+
+Tailwind Disadvantages :- Long className ,so many small component
